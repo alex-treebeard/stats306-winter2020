@@ -8,3 +8,4 @@ A Binder containing material for the STATS 306 (Winter 2020) course at the Unive
 Access this Binder at the following URL 
 
 http://mybinder.org/v2/gh/ambujtewari/stats306-winter2020/master
+
